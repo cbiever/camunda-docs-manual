@@ -13,10 +13,10 @@ menu:
 ---
 
 The Camunda DMN engine supports FEEL for [input entries]. The FEEL term for
-expression in input entires is simple unary tests. These simple unary tests
+expression in input entries is simple unary tests. These simple unary tests
 test an input value against an expression and return either `true` if the test
 is satisfied or `false` otherwise. The expression can contain different
-elements which are described in this sections.
+elements which are described in the following sections.
 
 # Comparison
 
